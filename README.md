@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# plotVenn <img src="inst/figures/SciencesPo-logo.png" width="240px" align="right" />
+# plotVenn <img src="inst/figures/plot.png" width="240px" align="right" />
 
 
 ## Installation
