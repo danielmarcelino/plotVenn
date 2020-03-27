@@ -1,0 +1,17 @@
+Package: plotVenn
+Type: Package
+Title: Plot and add custom coloring to Venn diagrams for 2-dimensional,
+        3-dimensional and 4-dimensional data.
+Version: 1.0
+Date: 2014-12-11
+Author: Daniel Marcelinos
+Maintainer: Daniel Marcelino <dmarcelino@live.com>
+Description: Given 2-,3- or 4-dimensional data, plots a Venn diagram, i.e. 'crossing circles'. The user can specify values, labels for each circle-group and unique colors for each plotted part.
+Depends: grid
+Suggests: MASS
+License: GPL-2
+Packaged: 2014-12-11 16:02:41 UTC; daniel
+NeedsCompilation: no
+Repository: CRAN
+Date/Publication: 2019-11-12
+RoxygenNote: 7.1.0
