@@ -1,0 +1,32 @@
+title: SciencesPo
+url: http://danielmarcelino.github.io/plotVenn
+template:
+  params:
+    bootswatch: United
+    ganalytics: UA-84499524-2
+
+navbar:
+  type: inverse
+  left:
+    - icon: fa-home
+      href: index.html
+  right:
+    - text: "Articles"
+      icon: fas fa-book
+      menu:
+      -  text: Installation
+         href: articles/installation.html
+      -  text: Interactive Execution - the SamplingStrata GUI
+         href: articles/interactive_execution.html
+    - text: "faq"
+      icon: fa-question-circle-o
+      href: articles/faq.html
+    - icon: fa-newspaper-o
+      text: "news"
+      href: news/index.html
+    - icon: fa-file-code-o
+      text: "functions"
+      href: reference/index.html
+    - icon: fa-github fa-lg
+      text: "github"
+      href: http://danielmarcelino.github.io/plotVenn
